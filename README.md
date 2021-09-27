@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=chingQAQ&show_icons=true&theme=dark" />
+</div>
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chingQAQ&layout=compact&theme=dark">
+</div>
 <!--
 **chingQAQ/chingQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
