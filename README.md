@@ -1,6 +1,5 @@
 ### Hi there 👋
 <div>
-  <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/?username=chingQAQ&show_icons=true&theme=dark">
   <img align="left" width="42.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chingQAQ&layout=compact&theme=dark">
 </div>
 <!--
