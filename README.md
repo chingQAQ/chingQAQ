@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div>
   <img align="left" width="42.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chingQAQ&layout=compact&theme=dark">
+  <a href="https://app.daily.dev/aion"><img src="https://api.daily.dev/devcards/v2/CTRxnOFxWkhtpCsiCVACU.png?type=wide&r=z46" width="400" alt="AionChiu's Dev Card"/></a>
 </div>
 <!--
 **chingQAQ/chingQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
